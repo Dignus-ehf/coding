@@ -3,4 +3,5 @@ const c = 20;
 const b = true;
 
 
+
 console.log(b);
